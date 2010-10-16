@@ -1,0 +1,8 @@
+This repository contains my current .emacs file, along with the associated vendor / elisp files.  
+It's meant to allow me to pull my .emacs configuration from anywhere.  While it's mostly meant
+for my personal convenience, you may find it useful.  If you do, let me know!
+
+Also, this repository is subject to massive and constant change (I'm tweaking things constantly)
+and experimenting with new modes and packages.  Don't depend on any real stability from what you
+find here. 
+
